@@ -32,7 +32,7 @@ size_t calc_hight(binary_tree_t *tree)
 }
 
 /**
- * binary_tree_is_full - checks if a binary tree is perfect
+ * binary_tree_is_perfect - checks if a binary tree is perfect
  * @tree: is a pointer to the root node of the tree to check
  * Return: 0 or 1
  */
